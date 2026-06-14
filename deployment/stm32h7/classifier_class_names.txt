@@ -1,0 +1,6 @@
+copper
+mousebite
+open
+pin-hole
+short
+spur

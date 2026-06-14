@@ -1,0 +1,7 @@
+index,image_path,label,score,pc_result,mean,std,edge_density,score_percentile,selection_reason,selection_warning
+0,data/processed/pcb_anomaly/test/anomaly/group12100_12100_not_12100062_box06_pin-hole_anomaly.jpg,1,0.00049147370737046,SUSPECT,0.427415668964386,0.4797443151473999,0.016908324556425214,67.50798722044729,anomaly_representative_p60_p90,
+1,data/processed/pcb_anomaly/test/normal/group90100_90100_not_90100019_box09_copper_normal.jpg,0,0.00012355968647170812,NORMAL,0.9388973712921143,0.2284933626651764,0.00957430386915803,40.01274291175534,normal_representative_p20_p60,
+2,data/processed/pcb_anomaly/test/normal/group12100_12100_not_12100132_box02_mousebite_normal.jpg,0,0.00016149881412275136,NORMAL,0.47374770045280457,0.4937918782234192,0.007739723543636501,49.98407136030583,normal_representative_p20_p60,
+3,data/processed/pcb_anomaly/test/anomaly/group12100_12100_not_12100142_box07_mousebite_anomaly.jpg,1,0.0005543780862353742,SUSPECT,0.5100537538528442,0.48476409912109375,0.019104101695120335,74.98402555910543,anomaly_representative_p60_p90,
+4,data/processed/pcb_anomaly/test/normal/group50600_50600_not_50600075_box02_short_normal.jpg,0,8.460903336526826e-05,NORMAL,0.18875782191753387,0.3817201852798462,0.012173847761005163,30.0095571838165,normal_representative_p20_p60,
+5,data/processed/pcb_anomaly/test/anomaly/group44000_44000_not_44000022_box04_spur_anomaly.jpg,1,0.0006271913298405707,SUSPECT,0.22374556958675385,0.40179502964019775,0.01505116862244904,82.49201277955271,anomaly_representative_p60_p90,
